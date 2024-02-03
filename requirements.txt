@@ -1,0 +1,4 @@
+aiy-projects-python
+json_database
+ovos-bus-client
+ovos-plugin-manager
