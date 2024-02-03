@@ -1,7 +1,6 @@
 """AIY V2 entrypoint PHAL plugin
 """
 
-from time import sleep
 from json_database import JsonConfigXDG
 from ovos_bus_client import Message
 from ovos_plugin_manager.phal import PHALPlugin

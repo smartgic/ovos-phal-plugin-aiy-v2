@@ -1,4 +1,4 @@
-# PHAL plugin - Google AIT Voice Kit V2
+# PHAL plugin - Google AIY Voice Kit V2
 
 A plugin to handle the button and LED from the famous Google AIY Voice Kit V2
 
