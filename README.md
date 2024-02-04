@@ -2,6 +2,8 @@
 
 A plugin to handle the button and LED from the famous Google AIY Voice Kit V2
 
+[![Video](https://img.youtube.com/vi/o8ih1P3NI60/maxresdefault.jpg)](https://www.youtube.com/watch?v=o8ih1P3NI60)
+
 ## About
 
 This PHAL plugin interacts with the button and the LED connected to AIY Voice Bonnet.
